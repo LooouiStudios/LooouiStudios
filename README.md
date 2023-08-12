@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LooouiStudios
+- 👀 I’m interested in game development and game design.
+- 🌱 I’m currently trying to learning C# as I normally use GDScript and Python
+- 📫 Reach me on my discord: https://discord.gg/G2sS2KRDxv or my mail: louigamestudios@gmail.com
